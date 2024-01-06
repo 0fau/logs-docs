@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docs.fau.dev</title>
+    <link>https://docs.fau.dev/logs/logs.fau.dev/collapsed/</link>
+    <description>Recent content on docs.fau.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://docs.fau.dev/logs/logs.fau.dev/collapsed/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,8 +1,8 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
-  "start_url": "/",
-  "scope": "/",
+  "name": "docs.fau.dev",
+  "short_name": "docs.fau.dev",
+  "start_url": "/./",
+  "scope": "/./",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
