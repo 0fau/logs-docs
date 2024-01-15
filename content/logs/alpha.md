@@ -17,7 +17,7 @@ Here are the steps:
 [alpha sign up message](https://discord.com/channels/1174544914139328572/1178348426136670258/1194465615830843392) in the `#alpha-access` channel to receive upload permissions.  \
 ![alpha react](/images/alpha_react.png)
 2. Download and install the [latest version](https://github.com/0fau/loa-logs/releases) of the modified meter.
-3. Now we need an access token. Sign into the website. Navigate to settings by clicking on the triple dot
+3. Now we need an access token. Sign into the [website](https://logs.fau.dev/logs). Navigate to settings by clicking on the triple dot
 button next to your discord tag on the bottom left.
 ![access token](/images/access_token.png)
 Generate the token and copy it.

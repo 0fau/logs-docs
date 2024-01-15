@@ -21,7 +21,7 @@ If you'd like to upload logs of your own, then head over to the [alpha access](/
 and follow the instructions there.
 - **why do things look like the way they do?**  \
 I focus on cloud infra and dist. systems at work. I am a mere dabbler in product design T_T.
-If something sticks out to you in an odd way, please share your opinions in the discord server. Feedback is always
+If something sticks out to you in an odd way, please share your opinions in the [discord server](https://discord.gg/T5U2JhXDUu). Feedback is always
 appreciated.
 - **how can I support the project?**  \
 UPLOAD LOGS nom nom and tell friends to :DD  \
