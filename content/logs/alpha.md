@@ -40,3 +40,8 @@ This is usually done once when getting things set up for the first time.
 You can also pick and choose which logs to upload. This is done by clicking on the upload button
 on the toolbar in every encounter page.
 ![upload](/images/upload.png)
+
+## where to find logs
+Uploaded logs can be found in the **Roster** tab of the website. Character names are
+only shown to the uploader, site admins, and a couple early alpha
+testers (subject to change). Log visibility/privacy customization is being currently being worked on.

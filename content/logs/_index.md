@@ -13,8 +13,8 @@ but it has expanded over time to also encompass other parts of the game. I'm not
 will be realized, but it'll be built bit by bit c:
 
 (note: am balancing working on this with a bunch of other time commitments and obligations)
-## faq
 
+## faq
 - **how can I try it out?**  \
 Logs are already [publicly available](https://logs.fau.dev/logs) for everyone to search and view!
 If you'd like to upload logs of your own, then head over to the [alpha access](/logs/alpha/) page
